@@ -9,7 +9,7 @@ export const Bio = {
   roles: ["Front End Developer", "Backend Developer", "Programmer"],
   description: "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Divanshu16202",
-  resume: "https://drive.google.com/file/d/1UIcN0o2SSpRmXmRsAXGKzA0Svlc4GM90/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1bMU1UEn8Z4HCWWCFEdvDWhPlAowvZ0Op/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/divanshu-marwaha-/",
   insta: "https://www.instagram.com/_divansh.7173_/",
   facebook: "https://www.facebook.com/divanshu.marwaha.5",
